@@ -6,6 +6,6 @@
 using namespace std;
 
 int main(){
-  cout<<"Hola mundo"<<endl;
+  cout<<"Hola mundo de mierda"<<endl;
 
 }
